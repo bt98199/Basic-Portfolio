@@ -150,6 +150,13 @@ img.headshot {
 	height: 300px;
 }
 
+img.doggos {
+	float: right;
+	padding: 0 1em 1em 0;
+	width: 200px;
+	height: 300px;
+}
+
 .page-title {
     font-family: 'Georgia', Times, 'Times New Roman', serif;
 }

@@ -171,11 +171,11 @@ img.doggos {
 .portfolio-item:nth-child(even) {
 	margin-left: 25px;
 }
-
+/*
 .portfolio-item:hover {
 	transform: rotate(-4deg) scale(1.1, 1.1);
 }
-
+*/
 .item-name {
 	position: relative;
 	top: -100px;
@@ -258,7 +258,7 @@ img.doggos {
 	transition-timing-function: ease-out;
 
 }
-
+/*
 .sidebar ul li:hover {
 	-ms-transform: scale(1.1,1.1);
 	-webkit-transform: scale(1.1,1.1);
@@ -266,7 +266,7 @@ img.doggos {
 	-o-transform: scale(1.1,1.1);
 	transform: scale(1.1,1.1);
 }
-
+*/
 .social img {
 	width: 60px;
 	height: auto;
